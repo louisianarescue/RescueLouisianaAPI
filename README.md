@@ -1,6 +1,5 @@
 Link: www.louisianarescue.com
 
-API
 	/api/rescue/ [GET]
 		Returns Array of all Objects.
 	EXAMPLE:
